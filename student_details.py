@@ -2,7 +2,7 @@ import sys
 
 
 if len(sys.argv) != 5:
-    print("Usage: python student_profile.py <Name> <USN> <Department> <Semester>")
+    print("Usage: python student_profile.py <student_Name> <USN> <Department> <Semester>")
     sys.exit()
 
 
